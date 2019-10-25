@@ -15,3 +15,5 @@
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/silvioantonio/Ecologicando/blob/master/LICENSE)
 
 </div>
+
+> Ecologicando é uma app de sugestoẽs voltado a sustentabilidade em prol do planeta. É um projeto deselvolvido para Android.
