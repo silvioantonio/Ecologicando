@@ -16,4 +16,29 @@
 
 </div>
 
-> Ecologicando é uma app de sugestoẽs voltado a sustentabilidade em prol do planeta. É um projeto deselvolvido para Android.
+> Ecologicando é uma app de sugestoẽs voltado a sustentabilidade em prol do planeta. É um projeto deselvolvido para Android
+que apresenta ao usuario formas de reciclar, criar e reutilizar materiais descartaveis.
+
+
+#### Construido com
+
+- [JAVA](https://www.java.com/pt_BR/)
+- [ANDROID](https://www.android.com/)
+
+### Autor
+
+* **Silvio Antonio** *Estudante universitário*
+
+* [Github](https://github.com/silvioantonio)
+* [Linkedin](https://www.linkedin.com/in/silvio-antonio-de-oliveira-junior-621813142/)
+* [Site](http://www.silvioantonio.ml)
+* [Email](mailto:oliveira_0000@hotmail.com)
+
+### licença
+
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/silvioantonio/Ecologicando/blob/master/LICENSE) para obter detalhes
+
+
+
+
+
