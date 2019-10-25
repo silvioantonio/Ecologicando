@@ -12,6 +12,6 @@
 ![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)
 <br />
 
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/silvioantonio/Ecologicando/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/silvioantonio/Ecologicando/blob/master/LICENSE)
 
 </div>
