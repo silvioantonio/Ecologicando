@@ -7,11 +7,11 @@
 
 <div align="center">
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)]
+![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)
 <br />
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)]
+![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)
 <br />
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/silvioantonio/Ecologicando/blob/master/LICENSE)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/silvioantonio/Ecologicando/blob/master/LICENSE)
 
 </div>
