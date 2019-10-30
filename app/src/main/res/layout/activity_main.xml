@@ -6,13 +6,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#000"
     tools:context=".MainActivity">
 
    <fragment
        android:id="@+id/toolbarFragment"
-       android:layout_width="50dp"
-       android:layout_height="50dp"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
        class="com.silvio.ecologicando.ToolbarFragment"
        tools:layout="@layout/toolbar_fragment_menu"/>
 

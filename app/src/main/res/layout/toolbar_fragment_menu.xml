@@ -25,7 +25,7 @@
             android:paddingStart="70dp"
             android:paddingEnd="0dp"
             android:text="@string/titulo"
-            android:textAppearance="@style/TextAppearance.AppCompat.Headline"/>
+            android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
     </LinearLayout>
 
     <androidx.cardview.widget.CardView
