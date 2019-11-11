@@ -25,15 +25,17 @@
           android:id="@+id/btn1"
           android:layout_width="150dp"
           android:layout_height="150dp"
-          android:layout_margin="20dp"
-          android:background="@drawable/shape_btn" />
+          android:layout_margin="10dp"
+          style="?attr/buttonBarButtonStyle"
+          android:background="@drawable/shape_btn1" />
 
       <Button
           android:id="@+id/btn2"
           android:layout_width="150dp"
           android:layout_height="150dp"
-          android:layout_margin="20dp"
-          android:background="@drawable/shape_btn" />
+          android:layout_margin="10dp"
+          style="?attr/buttonBarButtonStyle"
+          android:background="@drawable/btn2" />
 
    </LinearLayout>
 
@@ -47,15 +49,17 @@
           android:id="@+id/btn3"
           android:layout_width="150dp"
           android:layout_height="150dp"
-          android:layout_margin="20dp"
-          android:background="@drawable/shape_btn" />
+          android:layout_margin="10dp"
+          style="?attr/buttonBarButtonStyle"
+          android:background="@drawable/btn4" />
 
       <Button
           android:id="@+id/btn4"
           android:layout_width="150dp"
           android:layout_height="150dp"
-          android:layout_margin="20dp"
-          android:background="@drawable/shape_btn" />
+          android:layout_margin="10dp"
+          style="?attr/buttonBarButtonStyle"
+          android:background="@drawable/btn3" />
 
    </LinearLayout>
 
