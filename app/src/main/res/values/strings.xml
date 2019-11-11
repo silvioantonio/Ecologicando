@@ -2,4 +2,8 @@
     <string name="app_name">Ecologicando</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="titulo">Ecologicando</string>
+    <string name="btn1">Criando seu proprio adubo</string>
+    <string name="btn2">Reaproveitando alimentos</string>
+    <string name="btn3">Reaproveitando plastico</string>
+    <string name="btn4">Separando seu lixo</string>
 </resources>

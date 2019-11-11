@@ -26,7 +26,9 @@
           android:layout_width="150dp"
           android:layout_height="150dp"
           android:layout_margin="10dp"
-          style="?attr/buttonBarButtonStyle"
+          android:padding="10dp"
+          android:text="@string/btn1"
+          style="@style/button"
           android:background="@drawable/shape_btn1" />
 
       <Button
@@ -34,7 +36,8 @@
           android:layout_width="150dp"
           android:layout_height="150dp"
           android:layout_margin="10dp"
-          style="?attr/buttonBarButtonStyle"
+          android:text="@string/btn2"
+          style="@style/button"
           android:background="@drawable/btn2" />
 
    </LinearLayout>
@@ -50,7 +53,8 @@
           android:layout_width="150dp"
           android:layout_height="150dp"
           android:layout_margin="10dp"
-          style="?attr/buttonBarButtonStyle"
+          android:text="@string/btn3"
+          style="@style/button"
           android:background="@drawable/btn4" />
 
       <Button
@@ -58,7 +62,9 @@
           android:layout_width="150dp"
           android:layout_height="150dp"
           android:layout_margin="10dp"
-          style="?attr/buttonBarButtonStyle"
+          android:padding="10dp"
+          android:text="@string/btn4"
+          style="@style/button"
           android:background="@drawable/btn3" />
 
    </LinearLayout>
