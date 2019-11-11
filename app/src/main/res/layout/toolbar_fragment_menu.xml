@@ -16,13 +16,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:padding="10dp"
-            android:src="@drawable/ic_settings"/>
+            android:src="@drawable/logo_tree" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:paddingStart="70dp"
+            android:layout_gravity="center_vertical"
+            android:paddingStart="20dp"
             android:paddingEnd="0dp"
             android:text="@string/titulo"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"/>
