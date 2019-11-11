@@ -22,7 +22,8 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:padding="20dp"
+            android:paddingStart="0dp"
+            android:paddingEnd="20dp"
             android:layout_gravity="center"
             android:text="@string/btn1"
             android:textAlignment="center"
