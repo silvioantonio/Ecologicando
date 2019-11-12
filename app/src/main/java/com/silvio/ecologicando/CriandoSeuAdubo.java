@@ -40,13 +40,13 @@ public class CriandoSeuAdubo extends AppCompatActivity implements BottomNavigati
                 break;
             }case R.id.navegacao_ovos: {
                 //getSupportActionBar().setTitle("Ovos");
-                Fragment fragmentBanana = Banana.newInstance();
-                openFragment(fragmentBanana);
+                Fragment fragmentOvos = Ovos.newInstance();
+                openFragment(fragmentOvos);
                 break;
             }case R.id.navegacao_cafe:{
                 //getSupportActionBar().setTitle("Cafe");
-                Fragment fragmentBanana = Banana.newInstance();
-                openFragment(fragmentBanana);
+                Fragment fragmentCafe = Cafe.newInstance();
+                openFragment(fragmentCafe);
                 break;
             }
         }
