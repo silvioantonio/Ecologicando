@@ -4,16 +4,16 @@
     <item
         android:id="@+id/navegacao_banana"
         android:icon="@drawable/logo_tree"
-        android:title="Casca de Banana"/>
+        android:title="Banana"/>
 
     <item
         android:id="@+id/navegacao_ovos"
         android:icon="@drawable/logo_tree"
-        android:title="Casca de Ovos"/>
+        android:title="Ovos"/>
 
     <item
         android:id="@+id/navegacao_cafe"
         android:icon="@drawable/logo_tree"
-        android:title="Borra de Cafe"/>
+        android:title="Cafe"/>
 
 </menu>
