@@ -14,4 +14,8 @@ public class Banana extends Fragment {
         return inflater.inflate(R.layout.fragment_banana, container, false);
     }
 
+    public static Banana newInstance() {
+        return new Banana();
+    }
+
 }
