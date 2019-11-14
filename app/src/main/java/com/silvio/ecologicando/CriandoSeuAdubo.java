@@ -33,6 +33,12 @@ public class CriandoSeuAdubo extends AppCompatActivity implements BottomNavigati
     @Override
     public boolean onNavigationItemSelected(@NonNull MenuItem menuItem) {
         switch (menuItem.getItemId()){
+            case R.id.navegacao_adubo: {
+                //getSupportActionBar().setTitle("Banana");
+                Fragment fragmentAdubo = Adubo.newInstance();
+                openFragment(fragmentAdubo);
+                break;
+            }
             case R.id.navegacao_banana: {
                 //getSupportActionBar().setTitle("Banana");
                 Fragment fragmentBanana = Banana.newInstance();

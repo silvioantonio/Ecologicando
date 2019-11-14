@@ -2,6 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
+        android:id="@+id/navegacao_adubo"
+        android:icon="@drawable/logo_tree"
+        android:title="Geral"/>
+
+    <item
         android:id="@+id/navegacao_banana"
         android:icon="@drawable/logo_tree"
         android:title="Banana"/>
