@@ -6,7 +6,9 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="OVOS"
-        android:gravity="center_vertical|center_horizontal"/>
+        android:text="@string/ovos"
+        android:padding="20dp"
+        android:textAlignment="viewStart"
+        android:fontFamily="cursive"/>
 
 </LinearLayout>
