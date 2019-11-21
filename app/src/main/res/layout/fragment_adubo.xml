@@ -8,8 +8,8 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:text="A razão das suas plantas não crescerem, florescerem ou se manterem firmes e fortes pode estar na falta de nutrientes no solo. Os adubos caseiros são uma ótima saída para aproveitar restos de comida que iriam para o lixo, como cascas de banana e ovo, e ainda deixar suas plantas muito mais bonitas!"
         android:textSize="23sp"
+        android:text="@string/adubo"
         android:padding="20dp"
         android:textAlignment="viewStart"
         android:fontFamily="cursive"/>

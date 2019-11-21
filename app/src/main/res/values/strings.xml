@@ -6,4 +6,28 @@
     <string name="btn2">Reaproveitando alimentos</string>
     <string name="btn3">Reaproveitando plastico</string>
     <string name="btn4">Separando seu lixo</string>
+    <string name="adubo">
+        A razão das suas plantas não crescerem, florescerem ou se manterem firmes e fortes pode estar na falta de nutrientes no solo.
+        Os adubos caseiros são uma ótima saída para aproveitar restos de comida que iriam para o lixo, como cascas de banana e ovo, e ainda deixar suas plantas muito mais bonitas!"
+    </string>
+    <string name="banana">
+        Pode parar já de jogar as cascas de bananas fora, elas são ótimas para enriquecer o solo.
+        "Para usar a banana como adubo, triture a casca e a polpa e enterre ao redor da planta.
+        A banana é uma ótima fonte de potássio".
+        A parte interna da casca ainda pode ser utilizada para limpar e lustrar as folhas das plantas, deixando-as mais brilhantes.
+        "Filodendros, alocasias e cactos são algumas espécies que são facilmente limpas com a casca da banana"
+    </string>
+    <string name="ovos">
+Rica em cálcio, a casca do ovo pode ajudar muito no crescimento das plantas.
+        Para usar como adubo, basta triturar as cascas – no liquidificador ou com um pilão –
+        e quando elas estiverem como uma farofa, polvilhe sobre o substrato.
+        "O cálcio vai sendo absorvido conforme a planta for regada"
+    </string>
+    <string name="cafe">
+Na verdade, será necessário fazer uma água com a borra do café.
+        Gabriela indica diluir 100 g da borra (cerca de 3 colheres de sopa) em um litro d’água e deixar descansar por uma semana.
+        Essa água, então, poderá ser colocada no borrifador ou pulverizador e aplicada sobre as folhas de uma planta, servindo como repelente, já que afasta pragas.
+        Caso seja colocada em um regador, pode ser aplicada direto na terra, funcionando como fertilizante, uma vez que é rica em nitrogênio e carbono.
+        Alerta: a borra do café não deve ser colocada diretamente na terra.
+    </string>
 </resources>

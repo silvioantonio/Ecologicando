@@ -20,6 +20,10 @@ public class CriandoSeuAdubo extends AppCompatActivity implements BottomNavigati
         setContentView(R.layout.activity_criando_seu_adubo);
 
         navigationView = findViewById(R.id.navigationView);
+
+        Fragment fragmentAdubo = Adubo.newInstance();
+        openFragment(fragmentAdubo);
+
         navigationView.setOnNavigationItemSelectedListener(this);
     }
 
