@@ -5,26 +5,40 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentTransaction;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.ImageView;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class CriandoSeuAdubo extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener{
 
     private BottomNavigationView navigationView;
+    private ImageView imageView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_criando_seu_adubo);
 
+        imageView = findViewById(R.id.logo);
         navigationView = findViewById(R.id.navigationView);
 
         Fragment fragmentAdubo = Adubo.newInstance();
         openFragment(fragmentAdubo);
 
         navigationView.setOnNavigationItemSelectedListener(this);
+
+        imageView.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent i = new Intent(CriandoSeuAdubo.this, MainActivity.class);
+                startActivity(i);
+            }
+        });
+
     }
 
     private void openFragment(Fragment fragment) {

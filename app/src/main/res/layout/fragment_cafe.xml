@@ -6,8 +6,9 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:textSize="20sp"
         android:text="@string/cafe"
-        android:padding="20dp"
+        android:padding="22dp"
         android:textAlignment="viewStart"
         android:fontFamily="cursive"/>
 

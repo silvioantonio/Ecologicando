@@ -11,13 +11,14 @@
     <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
 
         <ImageView
             android:id="@+id/logo"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:src="@drawable/logo_tree" />
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:src="@drawable/evergreen_tree" />
 
         <TextView
             android:layout_width="match_parent"
