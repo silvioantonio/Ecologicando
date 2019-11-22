@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navegacao_plastico"
+        android:icon="@drawable/logo_tree"
+        android:title="Geral"/>
+
+    <item
+        android:id="@+id/navegacao_decoracao"
+        android:icon="@drawable/banana"
+        android:title="Decoracao"/>
+
+    <item
+        android:id="@+id/navegacao_estufa"
+        android:icon="@drawable/ovo"
+        android:title="Estufa"/>
+
+    <item
+        android:id="@+id/navegacao_organizador"
+        android:icon="@drawable/grao_cafe"
+        android:title="Organizador"/>
+
+    <item
+        android:id="@+id/navegacao_vasos"
+        android:icon="@drawable/grao_cafe"
+        android:title="Vasos"/>
+
+</menu>
