@@ -1,4 +1,4 @@
-package com.silvio.ecologicando;
+package com.silvio.ecologicando.model;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -7,15 +7,17 @@ import android.view.ViewGroup;
 
 import androidx.fragment.app.Fragment;
 
-public class Ovos extends Fragment {
+import com.silvio.ecologicando.R;
+
+public class Banana extends Fragment {
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_ovos, container, false);
+        return inflater.inflate(R.layout.fragment_banana, container, false);
     }
 
-    public static Ovos newInstance() {
-        return new Ovos();
+    public static Banana newInstance() {
+        return new Banana();
     }
 
 }

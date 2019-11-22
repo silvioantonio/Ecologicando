@@ -12,6 +12,10 @@ import android.view.View;
 import android.widget.ImageView;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
+import com.silvio.ecologicando.model.Adubo;
+import com.silvio.ecologicando.model.Banana;
+import com.silvio.ecologicando.model.Cafe;
+import com.silvio.ecologicando.model.Ovos;
 
 public class CriandoSeuAdubo extends AppCompatActivity implements BottomNavigationView.OnNavigationItemSelectedListener{
 

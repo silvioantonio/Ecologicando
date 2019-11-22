@@ -8,17 +8,17 @@
 
     <item
         android:id="@+id/navegacao_banana"
-        android:icon="@drawable/logo_tree"
+        android:icon="@drawable/banana"
         android:title="Banana"/>
 
     <item
         android:id="@+id/navegacao_ovos"
-        android:icon="@drawable/logo_tree"
+        android:icon="@drawable/ovo"
         android:title="Ovos"/>
 
     <item
         android:id="@+id/navegacao_cafe"
-        android:icon="@drawable/logo_tree"
+        android:icon="@drawable/grao_cafe"
         android:title="Cafe"/>
 
 </menu>
