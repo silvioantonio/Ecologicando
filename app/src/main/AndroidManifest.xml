@@ -9,7 +9,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ReaproveitandoAlimentos"></activity>
+        <activity android:name=".SeparandoLixo"></activity>
+        <activity android:name=".ReaproveitandoPlastico" />
+        <activity android:name=".ReaproveitandoAlimentos" />
         <activity
             android:name=".CriandoSeuAdubo"
             android:parentActivityName=".MainActivity" />
