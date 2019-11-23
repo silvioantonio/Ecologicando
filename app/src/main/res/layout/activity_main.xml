@@ -14,32 +14,37 @@
        android:layout_height="wrap_content"
        class="com.silvio.ecologicando.ToolbarFragment"
        tools:layout="@layout/toolbar_fragment_menu"/>
-
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:gravity="center_horizontal"
+        android:background="#dcedc8">
    <LinearLayout
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
-      android:orientation="horizontal"
+       android:layout_margin="5dp"
+       android:padding="5dp"
+       android:orientation="horizontal"
        android:gravity="center_horizontal">
 
-      <Button
+      <ImageView
           android:id="@+id/btn1"
-          android:layout_width="150dp"
-          android:layout_height="150dp"
+          android:layout_width="wrap_content"
           android:layout_weight="1"
-          android:layout_margin="10dp"
-          android:padding="10dp"
-          android:text="@string/btn1"
-          style="@style/button"
-          android:background="@drawable/shape_btn1"/>
+          android:layout_height="wrap_content"
+          android:layout_margin="3dp"
+         android:src="@drawable/digging"
+          android:background="@drawable/btn4"/>
 
-      <Button
+      <ImageView
           android:id="@+id/btn2"
-          android:layout_width="150dp"
+          android:layout_width="wrap_content"
           android:layout_weight="1"
-          android:layout_height="150dp"
-          android:layout_margin="10dp"
-          android:text="@string/btn2"
-          style="@style/button"
+          android:layout_height="wrap_content"
+          android:layout_margin="3dp"
+          android:src="@drawable/diet"
           android:background="@drawable/shape_btn1"/>
 
    </LinearLayout>
@@ -47,30 +52,30 @@
    <LinearLayout
        android:layout_width="match_parent"
        android:layout_height="wrap_content"
+       android:layout_margin="5dp"
+       android:padding="5dp"
       android:orientation="horizontal"
        android:gravity="center_horizontal">
 
-      <Button
-          android:id="@+id/btn3"
-          android:layout_width="150dp"
-          android:layout_weight="1"
-          android:layout_height="150dp"
-          android:layout_margin="10dp"
-          android:text="@string/btn3"
-          style="@style/button"
-          android:background="@drawable/shape_btn1" />
+       <ImageView
+           android:id="@+id/btn3"
+           android:layout_width="wrap_content"
+           android:layout_weight="1"
+           android:layout_height="wrap_content"
+           android:layout_margin="3dp"
+           android:src="@drawable/plastic"
+           android:background="@drawable/btn3"/>
 
-      <Button
-          android:id="@+id/btn4"
-          android:layout_width="150dp"
-          android:layout_weight="1"
-          android:layout_height="150dp"
-          android:layout_margin="10dp"
-          android:padding="10dp"
-          android:text="@string/btn4"
-          style="@style/button"
-          android:background="@drawable/shape_btn1" />
+       <ImageView
+           android:id="@+id/btn4"
+           android:layout_width="wrap_content"
+           android:layout_weight="1"
+           android:layout_height="wrap_content"
+           android:layout_margin="3dp"
+           android:src="@drawable/recycle"
+           android:background="@drawable/btn2"/>
 
    </LinearLayout>
+</LinearLayout>
 
 </LinearLayout>
