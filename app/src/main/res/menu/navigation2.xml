@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navegacao_alimentos"
+        android:icon="@drawable/logo_tree"
+        android:title="Alimentos"/>
+
+    <item
+        android:id="@+id/navegacao_limpeza"
+        android:icon="@drawable/banana"
+        android:title="Limpeza"/>
+
+    <item
+        android:id="@+id/navegacao_espante_mosquitos"
+        android:icon="@drawable/ovo"
+        android:title="Espante mosquitos"/>
+
+    <item
+        android:id="@+id/navegacao_azeite"
+        android:icon="@drawable/grao_cafe"
+        android:title="Azeite"/>
+
+    <item
+        android:id="@+id/navegacao_batatas"
+        android:icon="@drawable/grao_cafe"
+        android:title="Batatas"/>
+
+</menu>
