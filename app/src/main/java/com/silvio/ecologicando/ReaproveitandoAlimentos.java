@@ -28,7 +28,7 @@ public class ReaproveitandoAlimentos extends AppCompatActivity implements Bottom
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_reaproveitando_alimentos);
         imageView = findViewById(R.id.logo);
-        navigationView = findViewById(R.id.navigationView3);
+        navigationView = findViewById(R.id.navigationView2);
 
         Fragment fragmentReaproveitandoAlimentos = Alimento.newInstance();
         openFragment(fragmentReaproveitandoAlimentos);
