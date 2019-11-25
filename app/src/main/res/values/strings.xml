@@ -33,4 +33,20 @@ Na verdade, será necessário fazer uma água com a borra do café.
     <string name="plastico">
         Pense em quantos objetivos diferenciados e interessantes podem ser produzidos a partir de materiais que iriam para o lixo. É nítido o quanto a reciclagem faz bem para o meio ambiente – com o descarte correto e a reutilização de certos materiais – além da natureza, o seu bolso também agradece.
     </string>
+    <string name="alimentos">
+        Após as refeições, a grande maioria das pessoas joga fora o que sobrou da comida. Isso acontece também após o consumo de frutas e demais vegetais. Mas já está se popularizando a ideia de que esses resíduos aparentemente inúteis podem ser aproveitados de diversas maneiras.
+O reaproveitamento de alimentos é uma solução para diversos problemas atuais simples de ser tomada, como desperdício, geração de resíduo, poluição, entre outros, basta uma pequena mudança nos hábitos.
+    </string>
+    <string name="limpeza">
+        Sabe quando a parte interna da chaleira fica muito escura? Para limpar, encha-a com água e um punhado de cascas de limão e ponha-a para ferver. Assim que começar a borbulhar, desligue o fogo e deixe descansar por uma hora. Na sequência, é só escorrer e lavar bem.
+    </string>
+    <string name="espanta">
+        Use em um daqueles velhos aparelhos repelentes de insetos que são ligados na tomada e substitua o tablete convencional por um pedaço de casca de laranja ou por alguma outra fruta cítrica qualquer;
+    </string>
+    <string name="azeite">
+        Triture cascas de frutas cítricas com um pilão (em um vaso de metal ou de madeira) com um pouco de óleo. Coloque em um frasco com mais óleo e deixe descansando por seis horas. Depois desse período, acondicione em um recipiente limpo para uso em sua salada;
+    </string>
+    <string name="fritas">
+        Misture cascas de batata com bastante suco de limão e azeite. Espalhe as cascas de batata em camadas em uma assadeira e leve ao forno na temperatura de 200°C, mexendo de vez em quando até dourar (cerca de dez minutos). Tempere a gosto.
+    </string>
 </resources>

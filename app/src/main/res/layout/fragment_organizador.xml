@@ -3,4 +3,20 @@
     android:orientation="vertical" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:contentDescription="Imagem de garrafas plasticas"
+        android:src="@drawable/garrafas2_1"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textSize="23sp"
+        android:text="Garrafas plasticas como organizadores de materiais."
+        android:padding="20dp"
+        android:textAlignment="viewStart"
+        android:fontFamily="cursive"/>
+
 </LinearLayout>
