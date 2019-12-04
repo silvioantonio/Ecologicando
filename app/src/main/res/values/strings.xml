@@ -52,5 +52,7 @@ O reaproveitamento de alimentos é uma solução para diversos problemas atuais 
     <string-array name="array">
         <item>Lembre-se sempre de reciclar o maximo possivel!</item>
         <item>Garrafas levam decadas para se decompor, pense nisso!</item>
+        <item>Os animais agradeçem!</item>
+        <item>Tudo que fazemos influencia em todo o planeta!</item>
     </string-array>
 </resources>

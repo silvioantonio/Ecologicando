@@ -10,7 +10,10 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity implements Runnable{
+import java.util.Timer;
+import java.util.TimerTask;
+
+public class MainActivity extends AppCompatActivity{
 
     private ImageView btn1, btn2, btn3, btn4;
     private TextView textView;
@@ -31,9 +34,7 @@ public class MainActivity extends AppCompatActivity implements Runnable{
 
         frases = getResources().getStringArray(R.array.array);
 
-        Handler handler = new Handler();
-        handler.postDelayed( this, 1500);
-
+        Timer();
 
 
         btn1.setOnClickListener(new View.OnClickListener() {
@@ -62,15 +63,25 @@ public class MainActivity extends AppCompatActivity implements Runnable{
         });
     }
 
-    @Override
-    public void run(){
-        if(cont<2)
-            textView.setText(frases[cont]);
-        else {
-            cont = 0;
-            textView.setText(frases[cont]);
-        }
-        cont++;
+    public void Timer(){
+        Timer timer = new Timer();
+        TimerTask task = new TimerTask() {
+            @Override
+            public void run() {
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run() {
+                        if(cont < frases.length) {
+                            textView.setText(frases[cont]);
+                            cont++;
+                        } else
+                            cont = 0;
+                    }
+                });
+
+            }
+        };
+        timer.schedule(task, 0, 10000);
     }
 
 }
