@@ -49,4 +49,8 @@ O reaproveitamento de alimentos é uma solução para diversos problemas atuais 
     <string name="fritas">
         Misture cascas de batata com bastante suco de limão e azeite. Espalhe as cascas de batata em camadas em uma assadeira e leve ao forno na temperatura de 200°C, mexendo de vez em quando até dourar (cerca de dez minutos). Tempere a gosto.
     </string>
+    <string-array name="array">
+        <item>Lembre-se sempre de reciclar o maximo possivel!</item>
+        <item>Garrafas levam decadas para se decompor, pense nisso!</item>
+    </string-array>
 </resources>
