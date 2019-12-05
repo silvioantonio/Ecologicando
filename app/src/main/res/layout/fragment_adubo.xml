@@ -19,6 +19,6 @@
         android:text="@string/adubo"
         android:padding="20dp"
         android:textAlignment="viewStart"
-        android:fontFamily="cursive"/>
+        android:fontFamily="sans-serif"/>
 
 </LinearLayout>

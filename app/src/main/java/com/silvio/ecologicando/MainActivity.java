@@ -81,7 +81,7 @@ public class MainActivity extends AppCompatActivity{
 
             }
         };
-        timer.schedule(task, 0, 10000);
+        timer.schedule(task, 0, 7000);
     }
 
 }

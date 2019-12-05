@@ -17,6 +17,6 @@
         android:text="@string/cafe"
         android:padding="22dp"
         android:textAlignment="viewStart"
-        android:fontFamily="cursive"/>
+        android:fontFamily="sans-serif"/>
 
 </LinearLayout>

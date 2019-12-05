@@ -17,6 +17,6 @@
         android:text="Garrafas de refrigerante como vasos de plantas"
         android:padding="20dp"
         android:textAlignment="viewStart"
-        android:fontFamily="cursive"/>
+        android:fontFamily="sans-serif"/>
 
 </LinearLayout>

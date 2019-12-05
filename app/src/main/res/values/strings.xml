@@ -12,10 +12,9 @@
     </string>
     <string name="banana">
         Pode parar já de jogar as cascas de bananas fora, elas são ótimas para enriquecer o solo.
-        "Para usar a banana como adubo, triture a casca e a polpa e enterre ao redor da planta.
-        A banana é uma ótima fonte de potássio".
-        A parte interna da casca ainda pode ser utilizada para limpar e lustrar as folhas das plantas, deixando-as mais brilhantes.
-        "Filodendros, alocasias e cactos são algumas espécies que são facilmente limpas com a casca da banana"
+        "Para usar a banana como adubo, triture a casca e a polpa e enterre ao redor da planta".
+        A parte interna da casca ainda pode ser utilizada para limpar e lustrar as folhas das plantas,
+        deixando-as mais brilhantes.
     </string>
     <string name="ovos">
 Rica em cálcio, a casca do ovo pode ajudar muito no crescimento das plantas.
@@ -25,13 +24,14 @@ Rica em cálcio, a casca do ovo pode ajudar muito no crescimento das plantas.
     </string>
     <string name="cafe">
 Na verdade, será necessário fazer uma água com a borra do café.
-        Gabriela indica diluir 100 g da borra (cerca de 3 colheres de sopa) em um litro d’água e deixar descansar por uma semana.
+        Diluir 100 g da borra (cerca de 3 colheres de sopa) em um litro d’água e deixar descansar por uma semana.
         Essa água, então, poderá ser colocada no borrifador ou pulverizador e aplicada sobre as folhas de uma planta, servindo como repelente, já que afasta pragas.
         Caso seja colocada em um regador, pode ser aplicada direto na terra, funcionando como fertilizante, uma vez que é rica em nitrogênio e carbono.
-        Alerta: a borra do café não deve ser colocada diretamente na terra.
     </string>
     <string name="plastico">
-        Pense em quantos objetivos diferenciados e interessantes podem ser produzidos a partir de materiais que iriam para o lixo. É nítido o quanto a reciclagem faz bem para o meio ambiente – com o descarte correto e a reutilização de certos materiais – além da natureza, o seu bolso também agradece.
+        Pense em quantos objetos diferentes e interessantes podem ser produzidos a partir de
+        materiais que iriam para o lixo.  – com o descarte correto e a reutilização de
+        certos materiais – além da natureza, o seu bolso também agradece.
     </string>
     <string name="alimentos">
         Após as refeições, a grande maioria das pessoas joga fora o que sobrou da comida. Isso acontece também após o consumo de frutas e demais vegetais. Mas já está se popularizando a ideia de que esses resíduos aparentemente inúteis podem ser aproveitados de diversas maneiras.

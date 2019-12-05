@@ -8,22 +8,22 @@
 
     <item
         android:id="@+id/navegacao_decoracao"
-        android:icon="@drawable/banana"
+        android:icon="@drawable/star"
         android:title="Decoracao"/>
 
     <item
         android:id="@+id/navegacao_estufa"
-        android:icon="@drawable/ovo"
+        android:icon="@drawable/farmhouse"
         android:title="Estufa"/>
 
     <item
         android:id="@+id/navegacao_organizador"
-        android:icon="@drawable/grao_cafe"
+        android:icon="@drawable/organization"
         android:title="Organizador"/>
 
     <item
         android:id="@+id/navegacao_vasos"
-        android:icon="@drawable/grao_cafe"
+        android:icon="@drawable/plant"
         android:title="Vasos"/>
 
 </menu>
